@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="xztxTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/xztxTest_jar</output-path>
+    <root id="root">
+      <element id="archive" name="xztxTest.jar">
+        <element id="module-output" name="xztxTest" />
+        <element id="module-test-output" name="xztxTest" />
+      </element>
+      <element id="library" level="project" name="Maven: junit:junit:4.12" />
+      <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
+    </root>
+  </artifact>
+</component>
